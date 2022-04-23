@@ -6,7 +6,7 @@ This repository contains code from simple codes from my Embedded Systems Class a
 - Potentiometer
 - LED Screen
 - KeyPad
-- LED Light controlled using Light Sensor 
+- LED Light controlled using Light and Motion Sensors 
 
 The projects were implemented using [TinkerCAD](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
 
